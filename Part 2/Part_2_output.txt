@@ -1,0 +1,97 @@
+     17 Altruist
+    225 Announcer
+      3 Archaeologist
+  29681 Autobiographer
+    163 Benefactor
+     21 Beta
+     28 Booster
+    434 Caucus
+    792 Citizen Patrol
+     62 Civic Duty
+    105 Cleanup
+   1144 Commentator
+      6 Constable
+    184 Constituent
+      6 Convention
+      3 Copy Editor
+    840 Critic
+    486 Curious
+   2391 Custodian
+     13 Deputy
+     36 Disciplined
+   9131 Editor
+     26 Electorate
+    373 Enlightened
+    381 Enthusiast
+    467 Excavator
+    217 Explainer
+    960 Famous Question
+    129 Fanatic
+     83 Favorite Question
+      8 Generalist
+    257 Good Answer
+    218 Good Question
+     18 Great Answer
+     22 Great Question
+     72 Guru
+   7275 Informed
+      4 Inquisitive
+     35 Investor
+      5 Lifejacket
+     17 Mortarboard
+    544 Necromancer
+   1090 Nice Answer
+    936 Nice Question
+   3321 Notable Question
+    393 Organizer
+     49 Peer Pressure
+   6080 Popular Question
+      8 Populist
+    123 Precognitive
+    368 Promoter
+     22 Proofreader
+     10 Publicist
+      1 Pundit
+    151 Quorum
+      2 Refiner
+     64 Reviewer
+    949 Revival
+   6259 Scholar
+    137 Self-Learner
+      3 Sheriff
+      1 Sportsmanship
+     11 Stellar Question
+     35 Steward
+     24 Strunk &amp; White
+  13787 Student
+    137 Suffrage
+  17043 Supporter
+      6 Synonymizer
+     76 Tag Editor
+     22 Talkative
+     92 Taxonomist
+   5614 Teacher
+     63 Tenacious
+   2783 Tumbleweed
+     13 Unsung Hero
+    107 Vox Populi
+   3372 Yearling
+      1 bert
+      2 classification
+      3 clustering
+      1 cnn
+     12 deep-learning
+      1 k-means
+      5 keras
+     33 machine-learning
+      9 neural-network
+      3 nlp
+     12 python
+      1 q-learning
+      2 reinforcement-learning
+      1 scikit-learn
+      3 tensorflow
+      1 transformer
+      1 xgboost
+
+Total number of badges is : 95
